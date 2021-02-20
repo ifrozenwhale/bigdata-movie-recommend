@@ -14,7 +14,7 @@
 - 利用Mllib机器学习库，通过 TF-IDF 算法对标签的权重进行调，计算电影的内容特征向量，实现基于内容的电影推荐
 - 使用python、pymongo和matplotlib，读取MongoDB数据并进行可视化
 - Python flask构建后端数据服务，vue构建前端页面，交互式展示数据。
-https://github.com/ifrozenwhale/bigdata-movie-recommend/blob/master/README.md
+
 ### 基于豆瓣数据集
 
 - 破解滑动验证块，爬虫爬取豆瓣电影短评数据
